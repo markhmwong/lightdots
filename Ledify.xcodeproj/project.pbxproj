@@ -59,7 +59,6 @@
 		436F1F9E29B7758700B5E933 /* StaticLedTickerView+Debug.swift in Sources */ = {isa = PBXBuildFile; fileRef = 436F1F9D29B7758700B5E933 /* StaticLedTickerView+Debug.swift */; };
 		436F1FA029B7818500B5E933 /* UInt32+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 436F1F9F29B7818500B5E933 /* UInt32+Extension.swift */; };
 		436F1FA429BB496B00B5E933 /* ShiftLeftKernel.metal in Sources */ = {isa = PBXBuildFile; fileRef = 436F1FA329BB496B00B5E933 /* ShiftLeftKernel.metal */; };
-		436F1FA629BC12F600B5E933 /* StructColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 436F1FA529BC12F600B5E933 /* StructColor.swift */; };
 		4371D5EF28D72E3B0065BD30 /* LedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4371D5EE28D72E3B0065BD30 /* LedViewController.swift */; };
 		438EBF4D2965A10E007F9BD3 /* shiftLeft.metal in Sources */ = {isa = PBXBuildFile; fileRef = 438EBF4C2965A10E007F9BD3 /* shiftLeft.metal */; };
 		43981E51290ED12A0096916F /* OtherPlansViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43981E50290ED12A0096916F /* OtherPlansViewController.swift */; };
@@ -189,7 +188,6 @@
 		436F1F9D29B7758700B5E933 /* StaticLedTickerView+Debug.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "StaticLedTickerView+Debug.swift"; sourceTree = "<group>"; };
 		436F1F9F29B7818500B5E933 /* UInt32+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UInt32+Extension.swift"; sourceTree = "<group>"; };
 		436F1FA329BB496B00B5E933 /* ShiftLeftKernel.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = ShiftLeftKernel.metal; sourceTree = "<group>"; };
-		436F1FA529BC12F600B5E933 /* StructColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StructColor.swift; path = ../../../../../Downloads/StructColor.swift; sourceTree = "<group>"; };
 		4371D5EE28D72E3B0065BD30 /* LedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LedViewController.swift; sourceTree = "<group>"; };
 		438EBF4C2965A10E007F9BD3 /* shiftLeft.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = shiftLeft.metal; sourceTree = "<group>"; };
 		43981E50290ED12A0096916F /* OtherPlansViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherPlansViewController.swift; sourceTree = "<group>"; };
@@ -279,7 +277,6 @@
 				4320B50329622BC80060E84F /* StaticBannerViewController.swift */,
 				436F1F9D29B7758700B5E933 /* StaticLedTickerView+Debug.swift */,
 				436F1FA329BB496B00B5E933 /* ShiftLeftKernel.metal */,
-				436F1FA529BC12F600B5E933 /* StructColor.swift */,
 			);
 			path = "Static Banner";
 			sourceTree = "<group>";
@@ -847,7 +844,6 @@
 				43BBE2B8290B4E6A00BB547E /* FeatureView.swift in Sources */,
 				431DBD0C28A266E50097D793 /* AsciiArtist.swift in Sources */,
 				43FD850E28EF098C0091699E /* BackgroundPropertiesViewController.swift in Sources */,
-				436F1FA629BC12F600B5E933 /* StructColor.swift in Sources */,
 				43FD84E228EA79040091699E /* LedOptionsViewController.swift in Sources */,
 				4320B501296225870060E84F /* StaticBannerCoordinator.swift in Sources */,
 				43FD84FE28EC946B0091699E /* MessageRestrictions.swift in Sources */,

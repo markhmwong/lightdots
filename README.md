@@ -1,10 +1,14 @@
-#  Marquee
+#  Ledify
+
 A sign application to write large scrolling text across the device in vertical or horizontal format
 https://ijoshsmith.com/2015/04/29/creating-ascii-art-in-functional-swift/
 https://github.com/ijoshsmith/swift-ascii-art
 
 https://www.kodeco.com/2734-avfoundation-tutorial-adding-overlays-and-animations-to-videos# 
 https://bradgayman.com/blog/recordingAView/
+
+## Privacy Policy
+I only collect data when it's necessary to monitor and improve my applications. I do not intend to personally use or sell data to track you.
 
 Turn on Pro
 Under Model -> SubscriptionService -> proStatus()
