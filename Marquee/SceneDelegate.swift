@@ -8,7 +8,6 @@
 import UIKit
 import TelemetryClient
 import GoogleMobileAds
-import FirebaseCore
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
@@ -31,7 +30,6 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         
         UIApplication.shared.isIdleTimerDisabled = LedOptions.shared.loadIdleTime()
         SubscriptionService.shared.checkProStatus()
-//        FirebaseApp.configure()
         LedOptions.shared.initialiseDeftaulsForAllKeys()
         GADMobileAds.sharedInstance().requestConfiguration.testDeviceIdentifiers = [ "b58409e032fccd87205e659e1fc107b8" ]
         
